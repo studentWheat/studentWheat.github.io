@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://studentwheat.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-08-17T12:16:41.805Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://studentwheat.github.io"/>
+    <link rel="self" href="https://studentwheat.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://studentwheat.github.io/images/avatar.png</logo>
+    <icon>https://studentwheat.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://studentwheat.github.io/post/test/</id>
+        <link href="https://studentwheat.github.io/post/test/">
+        </link>
+        <updated>2022-08-15T04:26:25.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="好了吗">好了吗？</h1>
+<p>adsfasdfadsfasdfasdf</p>
+]]></content>
+    </entry>
+</feed>
